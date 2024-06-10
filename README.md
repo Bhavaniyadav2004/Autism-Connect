@@ -1,1 +1,3 @@
-# Autism-Connect
+# Autism-Connect 
+We've chosen to create this platform because there's a critical need for early detection of autism, alongside raising awareness and providing support resources. Autism spectrum disorder (ASD) affects millions worldwide, yet many individuals face delays in diagnosis and accessing necessary assistance. By offering an interactive tool for early detection, comprehensive educational content, and a platform for support and donations, we aim to bridge these gaps and make a meaningful difference in the lives of those affected by autism. Through increased awareness and community involvement, we can create a more inclusive and supportive environment for individuals with autism and their families.
+In addition to our main objectives, we're also partnering with schools to develop tailored websites for them.
